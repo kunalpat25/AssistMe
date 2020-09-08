@@ -1,6 +1,15 @@
 # AssistMe
 Assist Me is a voice assistant which can understand Marathi language (a locale in India). It can open apps according to your commands in marathi as well as in English language.
 
+# How to run
+1. Fork this repo
+2. Download code
+3. Open existing project in Android Studio
+4. Run on your device
+OR
+Download apk from here: https://drive.google.com/file/d/1JyaHRocPgAW9qycnGCYAy5hURPMyw0fC/view?usp=sharing
+Install and try following commands.
+
 # Example Commands to test
 1. गॅल्लरी उघड - Gallery ughad
 2. फोटोस अँप उघड - Photos app ughad / Open Photos
