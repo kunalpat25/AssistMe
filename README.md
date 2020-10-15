@@ -101,6 +101,7 @@ Download apk file from here
 # Contributing
 This project is open for contributions!
 
+
 * Create an issue with feature request
 * Discuss it with other developers
 * Develop code
@@ -113,6 +114,10 @@ This project is open for contributions!
 ``` git push ```
 * Browse to https://github.com/YOURGITHUBNAME/assistme/pulls and issue pull request
 * Enter description and send pull request.
+
+### Want to train with other commands or language?
+* Create your wit.ai account
+* Request API access by providing your username
 
 **[Back to top](#table-of-contents)**
 
