@@ -2,8 +2,12 @@
 
 Assist Me is a voice assistant which can understand Marathi language (a locale in India) and English as well. It can open apps according to your commands in marathi as well as in English language.
 
-![Assist Me](/AssitMe.png)
-![Demo video](https://user-images.githubusercontent.com/39524164/125683230-56e0cb21-a18c-4f1e-b4d3-cd3895efb15f.mp4)
+![Assist me](https://user-images.githubusercontent.com/39524164/125684092-aa065208-c2a4-477d-b720-5f8a38e0feab.png)
+
+
+https://user-images.githubusercontent.com/39524164/125684112-9a6f478a-34e2-4421-9348-a298f48202e5.mp4
+
+
 
 
 ## Table of Contents
